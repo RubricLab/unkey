@@ -82,7 +82,7 @@ producers = [
 
 [env.production]
 vars = {  ENVIRONMENT = "production"}
-route = { pattern = "api.unkey.dev", custom_domain = true}
+route = { pattern = "api.deploythisthing.com", custom_domain = true}
 logpush = true
 
 
